@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 19", "Lesson 19\Lesson 19.csproj", "{E0B81D3E-71A7-4E60-AD84-1478D6E91717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsCompany", "Newspaper\NewsCompany.csproj", "{61C09EE7-0C7B-484D-B9C6-E4DEF05709FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store", "Store\Store.csproj", "{CF4D7CAA-1611-4A00-B051-25BCA4371A97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0B81D3E-71A7-4E60-AD84-1478D6E91717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B81D3E-71A7-4E60-AD84-1478D6E91717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B81D3E-71A7-4E60-AD84-1478D6E91717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B81D3E-71A7-4E60-AD84-1478D6E91717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61C09EE7-0C7B-484D-B9C6-E4DEF05709FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C09EE7-0C7B-484D-B9C6-E4DEF05709FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C09EE7-0C7B-484D-B9C6-E4DEF05709FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C09EE7-0C7B-484D-B9C6-E4DEF05709FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF4D7CAA-1611-4A00-B051-25BCA4371A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4D7CAA-1611-4A00-B051-25BCA4371A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF4D7CAA-1611-4A00-B051-25BCA4371A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF4D7CAA-1611-4A00-B051-25BCA4371A97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEBA87C9-22EC-48DA-A1F2-469561113D66}
+	EndGlobalSection
+EndGlobal
